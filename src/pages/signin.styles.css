@@ -1,0 +1,80 @@
+.custom {
+  background: linear-gradient(to bottom right, #a3ddff,#1890ff );
+}
+.login-form {
+    max-width: 300px;
+    border-radius: 10px;
+  }
+  
+  .login-form-password {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .login-form-button {
+    width: 300px;
+    border-radius: 10px;
+    background-color: #fead01;
+    border-color: #fead01;
+  }
+  .login-form-button:hover {
+    width: 300px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border-color: #fcfcfc;
+    color: #fead01;
+  }
+  .login-form-button:focus {
+    width: 300px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border-color: #fcfcfc;
+    color: #fead01;
+  }
+  
+  .alignCenter {
+    text-align: center;
+  }
+  .alignCenter_login {
+    text-align: center;
+    font-weight: 50;
+  }
+  .alignCenter-checkbox {
+    text-align: center;
+  }
+  .alignCenter-error{
+    text-align: center;
+    margin-top: 20px;
+  }
+  .top_text_one {
+    position: static;
+    text-align: center;
+    height: 3vh;
+    font-size: 37px;
+    font-weight: bold;
+    
+  }
+  
+  .top_text {
+    position: static;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+  }
+  
+  .corner_text {
+    position: absolute;
+    top: 10px;
+    padding-left: 15px;
+    left: 0;
+    width: 200px;
+    height: 100px;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  
+  .roundCheckbox {
+    border-radius: 10px;
+  }
+ 
+  
